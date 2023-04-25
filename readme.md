@@ -52,7 +52,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Hello World <a name="about-project"></a>
 
-**Hello World** is a simple page containing the text "Hello World".
+**Hello World** is a simple page containing the text "Hello Microverse!".
 
 ## 🛠 Built With <a name="built-with"></a>
 
