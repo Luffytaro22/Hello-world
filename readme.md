@@ -189,7 +189,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for this template.
+I would like to thanks Microverse for this template.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
